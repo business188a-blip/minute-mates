@@ -1,4 +1,3 @@
-# minute-mates
 # Sample Files - MinuteMate Project
 
 ## 📁 **Purpose**
